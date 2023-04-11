@@ -11,3 +11,6 @@
 
 ## 텍스쳐 추출에 대한 포스팅
 https://velog.io/@sanngu5/컴퓨터비전-GLCM-Laws-Energy를-사용한-텍스쳐-피쳐-추출
+
+## 보고서
+[컴퓨터비전 과제2.pdf](https://github.com/sanngu5/CV-Texture-classifier/files/11203084/2.pdf)
